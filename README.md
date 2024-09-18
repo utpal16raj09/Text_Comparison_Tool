@@ -68,8 +68,3 @@ If you'd like to contribute to this project, feel free to fork the repository an
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
----
-
-Replace `"your-username"` with your actual GitHub username in the clone command.
-
-This README provides clear instructions for users to understand, install, and use the text comparison tool, as well as information on how they can contribute or customize the application.# Text_Comparison_Tool
