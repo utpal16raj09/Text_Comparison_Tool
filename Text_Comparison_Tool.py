@@ -2,9 +2,6 @@ import requests
 from bs4 import BeautifulSoup
 from difflib import SequenceMatcher
 
-# Your Bing Search API key here
-API_KEY = "YOUR_BING_SEARCH_API_KEY"
-
 # Function to search the web using Bing Search API
 def search_web(query):
     url = "https://api.bing.microsoft.com/v7.0/search"
